@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on something fun!!
 - 📫 How to reach me tkamin72@gmail.com
 
+
+[![GitHub](https://img.shields.io/github/followers/tkamin72?style=social)]
 <!---
 tkaminmbs/tkaminmbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
