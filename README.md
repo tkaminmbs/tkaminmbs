@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Trevor Kamin (@tkaminmbs_
+- 👋 Hi, I’m Trevor Kamin (@tkaminmbs)
 - 👀 I’m interested in Coding, skateboarding and living life to it's fullest.
 - 🌱 I’m currently learning Elasticsearch
 - 💞️ I’m looking to collaborate on something fun!!
